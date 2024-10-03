@@ -17,7 +17,7 @@
 <a name="introduction">🤖 Introduction</a>
 
 A healthcare patient management application that allows patients to easily register, book, and manage their appointments with doctors, featuring administrative tools for scheduling, confirming, and canceling appointments, along with SMS notifications, all built using Next.js.
-<h3>Website Link</h3> <href>https://care-pulse-boqk.vercel.app/</href>
+<h3>Website Link</h3>:- <href>(https://carepulse-kappa-five.vercel.app/)</href>
 <div align="left">
   ## <a name="tech-stack">⚙️ Tech Stack</a>
 
